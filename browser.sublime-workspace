@@ -1,0 +1,949 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline_block"
+			],
+			[
+				"sie",
+				"size_req"
+			],
+			[
+				"size",
+				"size_req"
+			],
+			[
+				"row",
+				"row_width"
+			],
+			[
+				"row_",
+				"row_height"
+			],
+			[
+				"include",
+				"include_self"
+			],
+			[
+				"in",
+				"include_self"
+			],
+			[
+				"VAL",
+				"VALID_HTML_CHAR"
+			],
+			[
+				"VA",
+				"VALID_STR_CHAR_NO_WHITESPACE"
+			],
+			[
+				"sel",
+				"selectors"
+			],
+			[
+				"child",
+				"child_bitmap"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"styl",
+				"stylesheets"
+			],
+			[
+				"style",
+				"stylesheets"
+			],
+			[
+				"V",
+				"VALID_ID_CHAR"
+			],
+			[
+				"cur",
+				"cur_children"
+			],
+			[
+				"A",
+				"ATTR_START"
+			],
+			[
+				"P",
+				"Patterns"
+			],
+			[
+				"mod",
+				"mod	module .. end"
+			],
+			[
+				"def",
+				"deferreds"
+			],
+			[
+				"de",
+				"deferreds"
+			],
+			[
+				"deferr",
+				"deferreds"
+			],
+			[
+				"req",
+				"reqrel	require_relative"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"su",
+				"subtrahend"
+			],
+			[
+				"thread",
+				"thread_pool"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"qu",
+				"queues"
+			],
+			[
+				"Th",
+				"ThreadPool"
+			],
+			[
+				"val",
+				"validations"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"const",
+				"const_missing_before_user"
+			],
+			[
+				"const_m",
+				"const_missing"
+			],
+			[
+				"con",
+				"constants_before_user"
+			],
+			[
+				"at",
+				"attributes"
+			],
+			[
+				"cu",
+				"current_loop_time"
+			],
+			[
+				"han",
+				"handlers"
+			],
+			[
+				"handl",
+				"handlers_mutex"
+			],
+			[
+				"timers",
+				"timers_mutex"
+			],
+			[
+				"rep",
+				"repeated"
+			],
+			[
+				"mem",
+				"mem_val"
+			],
+			[
+				"exec",
+				"execution_address"
+			],
+			[
+				"ex",
+				"execution_address"
+			],
+			[
+				"port",
+				"port_file"
+			],
+			[
+				"opt",
+				"optp	option_parse { .. }"
+			],
+			[
+				"App",
+				"Application"
+			],
+			[
+				"global",
+				"global_variables"
+			],
+			[
+				"Object",
+				"ObjectSpace"
+			],
+			[
+				"modu",
+				"Module"
+			],
+			[
+				"each",
+				"each_object"
+			],
+			[
+				"sin",
+				"singleton_class"
+			],
+			[
+				"method",
+				"method_defined"
+			],
+			[
+				"met",
+				"method_defined"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"dim",
+				"dimension"
+			],
+			[
+				"player",
+				"player_index"
+			],
+			[
+				"pla",
+				"player_index"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"import",
+				"import_multiple"
+			],
+			[
+				"d",
+				"do"
+			],
+			[
+				"url",
+				"url(image-url.gif)"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"call",
+				"call_user_func_array"
+			],
+			[
+				"cam",
+				"camelCase-lower"
+			],
+			[
+				"array_",
+				"array_map"
+			],
+			[
+				"arr",
+				"array_merge"
+			],
+			[
+				"array",
+				"array_map"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"request",
+				"request_url"
+			],
+			[
+				"requ",
+				"request_uri"
+			],
+			[
+				"calluser",
+				"call_user_func_array"
+			],
+			[
+				"func",
+				"func_get_args"
+			],
+			[
+				"fun_g",
+				"func_get_args"
+			],
+			[
+				"register",
+				"register_tick_function"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"parse",
+				"parse_str"
+			],
+			[
+				"ob_clea",
+				"ob_end_clean"
+			],
+			[
+				"ob_Get",
+				"ob_get_contents"
+			],
+			[
+				"parse_",
+				"parse_url"
+			],
+			[
+				"Error",
+				"ErrorMiddleware"
+			],
+			[
+				"handler",
+				"handleErrors"
+			],
+			[
+				"handle",
+				"handleErrors"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"call_user",
+				"call_user_method_array"
+			],
+			[
+				"new",
+				"newVal"
+			],
+			[
+				"a",
+				"actions"
+			],
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"jquer",
+				"jquery-ui"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruy",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"yacc",
+				"Set Syntax: OCamlyacc"
+			],
+			[
+				"peg",
+				"Set Syntax: PEGjs"
+			],
+			[
+				"set syntax:",
+				"Set Syntax: R"
+			],
+			[
+				"set syntax",
+				"Set Syntax: Groovy"
+			],
+			[
+				"set Syntax:",
+				"Set Syntax: YAML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"asm",
+				"Set Syntax: AVR ASM"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"package control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: Dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"d",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"todo",
+				"Set Syntax: Todo.txt"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"Sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"Jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Javas",
+				"Set Syntax: JavaScript (Rails)"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 282.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/User/autoload.sublime-snippet",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/style.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/style/properties.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/style/sheet.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/style/rule.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/dom/document.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/dom/text_node.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/dom/node.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/test/test.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/dom/child_nodes.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/html_parser.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/font.vxace.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/style/tag_selector.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/style/combined_selector.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/style/node_selector.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/style/selector.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/bitmap.vxace.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/som/rule.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/dom/element.rb",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/rect.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/dom.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/browser/dom/child_rendering.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/bootstrap.rb",
+		"/C/Users/Drew/.aprc",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/awesome_print-1.1.0/lib/awesome_print/formatter.rb",
+		"/C/Ruby193/lib/ruby/1.9.1/i386-mingw32/rbconfig.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/awesome_print_test.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/vxace/Game.ini",
+		"/C/Users/Drew/Development/Code/Ruby/browser/vxace/Game.rvproj2",
+		"/C/Users/Drew/Development/Code/Ruby/browser/vxace/Data/Animations.rvdata2",
+		"/C/Users/Drew/Development/Code/Ruby/browser/vxace/Data/Actors.rvdata2",
+		"/C/Users/Drew/Development/Code/Ruby/browser/vxace/",
+		"/C/Users/Drew/Development/Code/Ruby/browser/lib/dom/comment.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/tree_loop.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/browser.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/browser/dom/child_nodes.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/browser/dom.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/browser/dom/document.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/browser/dom/node.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/browser/dom/element.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/browser/html_parser.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/browser/dom/text_node.rb",
+		"/C/Users/Drew/Development/Code/Ruby/browser/browser/dom/element.b",
+		"/C/Users/Drew/Development/Code/Ruby/evented/reactor/reactor.rb",
+		"/C/Users/Drew/Development/Code/Ruby/evented/reactor/deferreds.rb",
+		"/C/Users/Drew/Development/Code/Ruby/evented/reactor/test.rb",
+		"/C/Users/Drew/Development/Code/Ruby/web-framework/other/memory_orm.rb",
+		"/C/Users/Drew/Development/Code/Ruby/kpeg/math.kpeg",
+		"/C/Users/Drew/Development/Code/luvit/http.server.lua",
+		"/C/Users/Drew/Development/Code/Ruby/web-framework/other/test.rb",
+		"/C/Users/Drew/Development/Code/Ruby/web-framework/other/app.rb",
+		"/C/Users/Drew/Development/Code/Ruby/Language/lib/language.rb",
+		"/C/Users/Drew/Development/Code/Ruby/games/darwin.rb",
+		"/C/Users/Drew/Development/Code/Ruby/kpeg/math.kpeg.rb",
+		"/C/Users/Drew/Development/Code/Ruby/kpeg/math.rb",
+		"/C/Users/Drew/Development/Code/Ruby/kpeg/test1.kpeg.rb",
+		"/C/Users/Drew/Development/Code/Ruby/kpeg/test1.rb",
+		"/C/Users/Drew/Development/Code/Ruby/kpeg/test1.kpeg",
+		"/C/Users/Drew/Development/Code/Ruby/kpeg/kpeg_comp.bat",
+		"/C/Users/Drew/Development/Code/Ruby/kpeg/test1.bat",
+		"/C/Users/Drew/Development/Code/Ruby/concurrency/thread-test2.rb",
+		"/C/Users/Drew/Development/Code/Ruby/concurrency/thread-test1.rb",
+		"/C/Users/Drew/Development/Code/Ruby/concurrency/test1.rb",
+		"/C/Users/Drew/Downloads/becky-birthday/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/install.js",
+		"/C/Users/Drew/Development/Code/Ruby/shoes/greeter.rb",
+		"/C/Users/Drew/Documents/Palm OS Desktop/M130/memopad/MemoPad.mdb",
+		"/C/Program Files (x86)/Common Files/Shoes/0.r1514/samples/expert-irb.rb",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/User/Shoes.sublime-build",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+		"/C/Users/Drew/Development/Code/Ruby/web-framework/web-framework.rb",
+		"/C/Users/Drew/Development/Code/Ruby/web-framework/other.rb",
+		"/C/Users/Drew/Development/Code/Ruby/web-framework/app.rb",
+		"/C/Users/Drew/Development/Code/Ruby/evented/test1.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0.rc.4-x86-mingw32/lib/em/timers.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.0.rc.4-x86-mingw32/lib/em/pure_ruby.rb",
+		"/C/Users/Drew/Development/Code/Ruby/evented/reactor/test-em.rb",
+		"/C/Users/Drew/Development/Code/Ruby/evented/reactor.rb",
+		"/C/Users/Drew/Development/Code/Ruby/evented/machine.rb",
+		"/C/Users/Drew/Development/Code/Ruby/machine/new-version/machine.rb",
+		"/C/Users/Drew/Stuff/Games/Olympics/BeachBall.md",
+		"/C/Users/Drew/Development/Code/Ruby/rolling-reload/ports/31536",
+		"/C/Users/Drew/Development/Code/Ruby/rolling-reload/reload-it.rb",
+		"/C/Users/Drew/Development/Code/Ruby/rolling-reload/test.rb",
+		"/C/Users/Drew/Development/Code/Ruby/rolling-reload/reloader.rb",
+		"/C/Users/Drew/Development/Code/Ruby/rolling-reload/object.rb",
+		"/C/Users/Drew/Development/Code/Ruby/rolling-reload/ports/31252",
+		"/C/Users/Drew/Development/Code/Ruby/rolling-reload/orig.rb",
+		"/C/Users/Drew/Development/Code/Ruby/rolling-restart/test.rb",
+		"/C/Users/Drew/Development/Code/Ruby/rolling-restart/reloader.rb",
+		"/C/Users/Drew/Development/Code/Ruby/rolling-restart/rolling-restart.rb",
+		"/C/Users/Drew/Development/Code/Ruby/error.rb",
+		"/C/Users/Drew/Development/Code/Ruby/reloading/code/dep-of-T.rb",
+		"/C/Users/Drew/Development/Code/Ruby/reloading/code/modifies-T.rb",
+		"/C/Users/Drew/Development/Code/Ruby/reloading/reload.rb",
+		"/C/Users/Drew/Development/Code/Ruby/reloading/code/T.rb",
+		"/C/Users/Drew/Development/Code/Ruby/reloading/trace.rb",
+		"/C/Users/Drew/Development/Code/Ruby/reloading/code.rb",
+		"/C/Users/Drew/Development/Code/Ruby/math/function.rb",
+		"/C/Users/Drew/Development/Code/Ruby/function.rb",
+		"/C/Users/Drew/Development/Code/Ruby/math/factor-pairs.rb",
+		"/C/Ruby193/bin/pry",
+		"/C/Users/Drew/Development/Code/Ruby/math/graph.001.rb",
+		"/C/Users/Drew/Development/Code/Ruby/math/graph.rb",
+		"/C/Users/Drew/Development/Code/Ruby/math/reverse-function.rb",
+		"/C/Users/Drew/Development/Code/Ruby/machine/approaches.rb",
+		"/C/Users/Drew/Development/Code/Ruby/machine/machine.rb",
+		"/C/Users/Drew/Development/Code/Ruby/stdout.rb",
+		"/C/Users/Drew/Development/Code/Ruby/GUI/wx.rb",
+		"/C/Users/Drew/Development/Code/Ruby/GUI/qt.rb",
+		"/C/Users/Drew/Development/Code/Ruby/GUI/tk.rb",
+		"/C/Users/Drew/Development/Code/Ruby/syntax.rb",
+		"/C/Users/Drew/Development/Code/Ruby/GUI/gtk.rb",
+		"/C/Users/Drew/Development/Code/Ruby/evented/synchrony.rb",
+		"/C/Users/Drew/Development/Code/ClientSideFramework/require.js",
+		"/C/Users/Drew/Development/Code/Editor/mockups/tabs/tab.html",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Default.sublime-keymap",
+		"/C/Users/Drew/Development/Code/Editor/mockups/tabs/close.svg",
+		"/C/Users/Drew/Development/Code/test.coffee",
+		"/C/Users/Drew/Development/Code/test.coffe.coffee",
+		"/C/Users/Drew/Development/Code/Editor/nep/package.json",
+		"/C/Users/Drew/Development/Code/Editor/mockups/tab.html",
+		"/C/Users/Drew/Development/Code/Editor/mockups/right.svg",
+		"/C/Users/Drew/Development/Code/Editor/mockups/tab.svg",
+		"/C/Users/Drew/Development/Code/Editor/mockups/tabpath.svg",
+		"/C/Users/Drew/Development/Code/Editor/mockups/left.svg"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Drew\\Development\\Code\\Ruby\\browser"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"ap",
+			"print",
+			"puts",
+			"&:+",
+			"(?<!\\&\\&)\\[\\^[^\\]]+\\]\\]",
+			"\\[\\^[^\\]]+\\]\\]",
+			"size",
+			"ctrl+b",
+			"f12",
+			"f11",
+			".ai",
+			"VALID_STR_NO_WHITESPACE",
+			"^",
+			"forward",
+			"emit",
+			"e",
+			"seperator?",
+			"def initialize",
+			"(?:^|[^S])S(?:$|[^S])",
+			"S",
+			"{}",
+			"self.",
+			"to_f",
+			"@timer_quantum",
+			"class Selectable",
+			"LoopbreakReader",
+			"$current_ev",
+			"$current_",
+			"$",
+			"R[^e]",
+			"push_trace",
+			"file",
+			"file =",
+			"cl",
+			"method_added",
+			"_defined",
+			"data",
+			"puts",
+			"above",
+			"below",
+			".empty?",
+			"index",
+			"pry",
+			"R::",
+			"R.",
+			"R",
+			"Rvents",
+			"E",
+			"e",
+			"E",
+			"define_proxy_class",
+			"define_class",
+			"self",
+			"Syntax::String",
+			"ctrl+shift+n",
+			"ctrl+shift+t",
+			"HTTP",
+			"::",
+			"read_request_complete",
+			"read_socket",
+			"route_request(",
+			"route_request",
+			"get_php_response",
+			"li",
+			"theme",
+			"\"action\": \"",
+			"ctrl+i",
+			"safjsdkfjafj",
+			"rwe7tw3948754389htjtuih5iugyv",
+			"hell",
+			"hel",
+			"he"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".inspect",
+			"$current_reactor",
+			"Reactor",
+			"R"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 24.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cn",
+				"lib/browser/dom/child_nodes.rb"
+			],
+			[
+				"node.rb",
+				"lib/browser/dom/node.rb"
+			],
+			[
+				"tes",
+				"test/test.rb"
+			],
+			[
+				"font",
+				"lib/browser/font.vxace.rb"
+			],
+			[
+				"n",
+				"lib/browser/dom/node.rb"
+			],
+			[
+				"br.r",
+				"lib/browser.rb"
+			],
+			[
+				"doc",
+				"lib/browser/dom/document.rb"
+			],
+			[
+				"chi",
+				"lib/browser/dom/child_nodes.rb"
+			],
+			[
+				"el",
+				"lib/browser/dom/element.rb"
+			],
+			[
+				"tn",
+				"lib/browser/dom/text_node.rb"
+			],
+			[
+				"te",
+				"test/test.rb"
+			],
+			[
+				"ele",
+				"browser/lib/browser/dom/element.rb"
+			],
+			[
+				"li",
+				"Libraries/node/deps/v8/src/list-inl.h"
+			],
+			[
+				"",
+				"Code/natural.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"vm",
+				"/C/Users/Drew/Development/Code/VM/VM.sublime-project"
+			],
+			[
+				"fwp",
+				"/C/Users/Drew/Development/Code/fun-with-php/fun-with-php.sublime-project"
+			],
+			[
+				"",
+				"/C/Users/Drew/Development/Code/Github/drewyoung1/ruby-game-engine/ruby-game-engine.sublime-project"
+			],
+			[
+				"ruby-",
+				"/C/Users/Drew/Development/Code/ruby-game-editor/ruby-game-editor.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}
