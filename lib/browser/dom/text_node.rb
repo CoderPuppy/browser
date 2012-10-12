@@ -1,16 +1,12 @@
 class Browser
 	module DOM
 		class TextNode < Node
-			attr_reader :text
+			attr_accessor :text
 
 			@type = :text
 
 			def initialize(text)
 				super()
-				@text = text
-			end
-
-			def text=(text)
 				@text = text
 			end
 

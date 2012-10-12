@@ -30,6 +30,10 @@ class Browser
 				@children.map(&:text).join ''
 			end
 
+			def text=(text)
+				@children = [TextNode.new(text)]
+			end
+
 			def inner_html
 				@children.map(&:html).join ''
 			end
