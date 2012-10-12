@@ -1,6 +1,6 @@
 class Browser
 	module HTMLParser
-		def self.parse(str, container)
+		def self.parse(str, container = DOM::Document.new)
 			start_children = container.children.length
 
 			# State
